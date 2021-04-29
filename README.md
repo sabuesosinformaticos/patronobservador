@@ -1,0 +1,2 @@
+# patronobservador
+ejm patron observador 
